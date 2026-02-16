@@ -38,7 +38,7 @@ popup += "<select onchange=\"changeView(this.value);\">";
 popup += "<option value='0'>Dostupné vojsko</option>";
 popup += "<option value='0p2p3'>Všetky vlastné</option>";
 popup += "<option value='1'>Vojsko v dedinách</option>";
-popup += "<option value='2'>Vojsko na pochode</option>";
+popup += "<option value='2'>Tadeas je lama</option>";
 popup += "<option value='3'>Vojsko mimo dedín</option>";
 popup += "</select>";
 popup += "</th></tr>";
