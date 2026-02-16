@@ -1,6 +1,6 @@
 javascript:
 // Create global object if it does not exist
-if (!troopCounter) var troopCounter = {};
+if (typeof troopCounter === "undefined") var troopCounter = {};
 
 var table;
 var troopSums = [];
